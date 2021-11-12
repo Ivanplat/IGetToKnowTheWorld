@@ -1,6 +1,6 @@
 /*
  * Laboratory work #4. Platonov Ivan, group 02121-DB, IMIT ISU.
- * Block "Hello, world!"
+ * Block "I get to know the world!"
  * */
 package com.EventGraph;
 import java.util.Scanner;
